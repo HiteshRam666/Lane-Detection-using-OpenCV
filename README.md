@@ -7,3 +7,9 @@ Lane Detection is a computer vision task that involves identifying the boundarie
 ## Demo
 
 ![lane (1)](https://github.com/HiteshRam666/Lane-Detection-using-OpenCV/assets/116026459/d3e0412c-776e-4942-853e-1e0e3c68adda)
+
+## Appendix
+
+Pros 👉 : Basic Opencv Functions are used to create this project like ROI, Thresholding, Hough Transform
+
+cons 👉 : It only detects only straight line on roads, it does not detect curve turns or curvature roads
